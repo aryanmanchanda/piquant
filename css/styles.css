@@ -1,0 +1,24 @@
+
+div{
+
+  background-color:#fff0f0
+
+   ;
+   position: relative;
+   padding-top: 100px;
+  ;
+
+}
+body{
+  margin: 0;
+}
+h1{
+  margin-top:0;
+}
+body{
+  text-align: center;
+}
+a:hover
+{
+  background-color: gold;
+}
